@@ -1,1 +1,1 @@
-the juggernaut will arise
+The juggernaut will arise
