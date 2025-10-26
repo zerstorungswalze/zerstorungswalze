@@ -1,9 +1,9 @@
- ⚪ - "Möchtest du erobern? Eine einladung." - **Fulfilled**
+ ⚪ - "möchtest du erobern? eine einladung." - **fulfilled**
 
- 🔴 - "Auch wenn es noch so fern ist, wohnt in beiden köpfen immer noch der wunsch nach zerstörung." - **On his way**
+ 🔴 - "auch wenn es noch so fern ist, wohnt in beiden köpfen immer noch der wunsch nach zerstörung." - **on his way**
 
- ⚫ - "" - **On his way**
+ ⚫ - "" - **on his way**
 
- 🟢 - "" - **On his way**
+ 🟢 - "" - **on his way**
 
-— The Juggernaut will arise
+— the juggernaut will arise
