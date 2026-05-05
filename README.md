@@ -9,5 +9,5 @@
 — the juggernaut will arise.
 
 <p align="center">
- <a href="https://armageddon.atabook.org/">throw your doubts.<a/>
+ <a href="https://armageddon.atabook.org/">throw your doubts, which i refer to questions mostly.<a/>
  </p>
